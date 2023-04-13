@@ -1,5 +1,7 @@
 # JS_Week13
 Hometask for Week 13, JS, Date, functions (conditions if, else, conditional (ternary) operator, switch)
+
+
 Вопросы 💎
 
 1. Как создать дату 24 января 2021 года, 22 часа 51 минута? Временная зона — местная.
