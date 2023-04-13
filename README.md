@@ -14,8 +14,11 @@ console.log(date);
 3. Как посчитать, сколько секунд осталось до завтра?
 
 let today = +new Date( );
-let tomorrow = +new Date(2023,3,13)
+
+let tomorrow = +new Date(2023,3,13);
+
 let timeRemain = (tomorrow - today)/1000;
+
 console.log(timeRemain);
 
 4. Для чего предназначен метод `getDate()`?
