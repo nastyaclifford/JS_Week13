@@ -65,7 +65,7 @@ console.log(timeRemain);
     console.log(y);
     ```
     
-10. В чём ошибка в коде?
+10. В чём ошибка в коде? (Ошибки нет, все выполнено верно и все работает)
 
 let y = new Date(); 
 let d = y.getDate();
